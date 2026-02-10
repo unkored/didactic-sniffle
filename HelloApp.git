@@ -1,3 +1,0 @@
-git config --global user.name "unkored"
-git config --global user.email "yahwehfchen@gmail.com"
-git config --list # Verify configuration
